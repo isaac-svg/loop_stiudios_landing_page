@@ -51,9 +51,5 @@ I will use css only to handle the responsiveness
 
 ### Useful resources
 
-- [MDN](https://www.MDN.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
